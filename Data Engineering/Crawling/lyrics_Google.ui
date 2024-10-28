@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>pjtenis</class>
+ <widget class="QDialog" name="pjtenis">
+  <property name="windowModality">
+   <enum>Qt::ApplicationModal</enum>
+  </property>
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>481</width>
+    <height>730</height>
+   </rect>
+  </property>
+  <property name="mouseTracking">
+   <bool>true</bool>
+  </property>
+  <property name="tabletTracking">
+   <bool>false</bool>
+  </property>
+  <property name="contextMenuPolicy">
+   <enum>Qt::NoContextMenu</enum>
+  </property>
+  <property name="acceptDrops">
+   <bool>true</bool>
+  </property>
+  <property name="windowTitle">
+   <string>Gmail 발송 프로그램</string>
+  </property>
+  <property name="whatsThis">
+   <string/>
+  </property>
+  <property name="accessibleName">
+   <string/>
+  </property>
+  <property name="accessibleDescription">
+   <string/>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <property name="sizeGripEnabled">
+   <bool>false</bool>
+  </property>
+  <property name="modal">
+   <bool>false</bool>
+  </property>
+  <widget class="QLineEdit" name="input_1">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>20</y>
+     <width>281</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_15">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>20</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;음원 리스트 원본&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="excel_btn">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>20</y>
+     <width>61</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>LOAD</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="log">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>100</y>
+     <width>461</width>
+     <height>621</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="start_btn">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>60</y>
+     <width>461</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>가사 크롤링</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
