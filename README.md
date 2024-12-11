@@ -31,22 +31,22 @@ The recommendation framework consists of three main modules:
 ## Visualizations
 
 ### **Figure 4**: Few-Shot Prompting Impact on Query Results
-![Figure 4](image/그림4.png)
+![Figure 4](Image/그림4.png)
 
 ### **Figure 5**: Genre Distribution and Attribute Violin Plots for Queries
-![Figure 5](image/그림5.png)
+![Figure 5](Image/그림5.png)
 
 ### **Figure 6**: Acoustic Features and Query Mapping
-![Figure 6](image/그림6.png)
+![Figure 6](Image/그림6.png)
 
 ### **Figure 7**: Energy and Danceability Distribution Across Recommendations
-![Figure 7](image/그림7.png)
+![Figure 7](Image/그림7.png)
 
 ### **Figure 8**: Attribute Violin Plots by Query Context
-![Figure 8](image/그림8.png)
+![Figure 8](Image/그림8.png)
 
 ### **Figure 9**: System Architecture of the Music Recommendation Framework
-![Figure 9](image/그림9.png)
+![Figure 9](Image/그림9.png)
 
 ---
 
