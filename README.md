@@ -31,7 +31,7 @@ The recommendation framework consists of three main modules:
 ## Visualizations
 
 ### **Figure 4**: Few-Shot Prompting Impact on Query Results
-![Figure 4](Image/그림4.png)
+![Figure 4](Image/그림10.png)
 
 ### **Figure 5**: Genre Distribution and Attribute Violin Plots for Queries
 ![Figure 5](Image/그림5.png)
