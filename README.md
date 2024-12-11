@@ -22,9 +22,9 @@ The recommendation framework consists of three main modules:
 
 ## Key Features
 
-- Utilizes user metadata (e.g., preferred genres, favorite artists) to personalize recommendations.
+- We provide personalized recommendations by taking the user's metadata and query as input.
 - Supports situational queries like "music for feeling romantic" or "energetic tracks for workout."
-- Few-shot prompting enhances the LLM's ability to understand nuanced queries.
+- The LLM analyzes the attributes of the songs provided through few-shot prompting, extracts key features, and incorporates contextual information into the recommendation engine.
 
 ---
 
