@@ -61,8 +61,9 @@ The recommendation framework consists of three main modules:
 ## How to Use
 
 1. Clone the repository and install dependencies.
-2. Input your user metadata and queries.
-3. Run the system to receive personalized music recommendations.
+2. Please get the Pinecone, OpenAI, Spotify API Key issued and bring it up
+3. Input your user metadata and queries.
+4. Run the system to receive personalized music recommendations.
 
 ---
 
