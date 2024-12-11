@@ -30,22 +30,22 @@ The recommendation framework consists of three main modules:
 
 ## Visualizations
 
-### **Figure 1**: System Framework
+### **Figure 1**: System Architecture of the Music Recommendation Framework
 ![Figure 4](Image/그림10.png)
 
 ### **Figure 2**: Genre Distribution and Attribute Violin Plots for Queries
 ![Figure 5](Image/그림5.png)
 
-### **Figure 3**: Acoustic Features and Query Mapping
+### **Figure 3**: Energy and Danceability Distribution Across Recommendations
 ![Figure 6](Image/그림6.png)
 
-### **Figure 4**: Energy and Danceability Distribution Across Recommendations
+### **Figure 4**: Speechiness and Acousticness Distribution Across Recommendations
 ![Figure 7](Image/그림7.png)
 
-### **Figure 5**: Attribute Violin Plots by Query Context
+### **Figure 5**: Valence Distribution Across Recommendations
 ![Figure 8](Image/그림8.png)
 
-### **Figure 6**: System Architecture of the Music Recommendation Framework
+### **Figure 6**: Comparative Experiment with RAG
 ![Figure 9](Image/그림9.png)
 
 ---
