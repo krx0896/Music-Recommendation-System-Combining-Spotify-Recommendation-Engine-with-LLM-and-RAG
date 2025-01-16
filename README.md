@@ -1,6 +1,6 @@
 # Music Recommendation System Combining Spotify Recommendation Engine with LLM and RAG
 
-This project demonstrates a novel approach to music recommendation by integrating the Spotify recommendation engine with Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). The system leverages user metadata, few-shot prompting, and query understanding to generate personalized recommendations that reflect the user's preferences and situational context.
+This project demonstrates a novel approach to music recommendation by integrating the Spotify recommendation engine with Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). The system leverages user metadata, few-shot prompting, and query understanding to generate personalized recommendations that reflect the user's preferences and situational context. 
 
 ---
 
